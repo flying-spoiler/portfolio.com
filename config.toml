@@ -42,7 +42,7 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "ページ一覧"
+  name = "記事一覧"
   url = "portfolio/"
   home = true
 
