@@ -15,7 +15,9 @@ googleAnalytics = ""
   copyright = "&copy;2021 ひこうき雲"
   sidebarAbout = [
     "ブログのようなサイトだよ。",
-    "このサイト、できたてで中身空っぽだな？"
+    "好きなものについて書くよ！",
+    "このサイト、できたてで中身スッカスカだな？",
+    "しかもゲームの話ばっかりしてるな？"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -42,13 +44,9 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "軽く自己紹介"
-  url = "about/"
-  home = true
-
-  [[params.navlinks]]
   name = "記事一覧"
   url = "portfolio/"
+  home = true
 
   [[params.navlinks]]
   name = "他のいろいろ"

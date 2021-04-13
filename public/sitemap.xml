@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hopeful-beaver-083c53.netlify.app/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url><url>
     <loc>https://hopeful-beaver-083c53.netlify.app/categories/</loc>
   </url><url>
     <loc>https://hopeful-beaver-083c53.netlify.app/portfolio/</loc>
@@ -15,10 +12,10 @@
   </url><url>
     <loc>https://hopeful-beaver-083c53.netlify.app/</loc>
   </url><url>
-    <loc>https://hopeful-beaver-083c53.netlify.app/portfolio/20210413_1/</loc>
+    <loc>https://hopeful-beaver-083c53.netlify.app/portfolio/puzzleanddragons/</loc>
   </url><url>
-    <loc>https://hopeful-beaver-083c53.netlify.app/portfolio/20210413_2/</loc>
+    <loc>https://hopeful-beaver-083c53.netlify.app/portfolio/pokemon/</loc>
   </url><url>
-    <loc>https://hopeful-beaver-083c53.netlify.app/portfolio/20210413_3/</loc>
+    <loc>https://hopeful-beaver-083c53.netlify.app/portfolio/touhou/</loc>
   </url>
 </urlset>
