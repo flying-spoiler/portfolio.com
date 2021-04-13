@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://hopeful-beaver-083c53.netlify.app"
 title = "ひこうきメモ"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja-jp"
