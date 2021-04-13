@@ -42,13 +42,17 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "記事一覧"
-  url = "portfolio/"
+  name = "軽く自己紹介"
+  url = "about/"
   home = true
 
   [[params.navlinks]]
+  name = "記事一覧"
+  url = "portfolio/"
+
+  [[params.navlinks]]
   name = "他のいろいろ"
-  url = "about/"
+  url = "links/"
 
   [params.social]
   # facebook      = "full page or profile url in facebook"
