@@ -14,10 +14,8 @@ googleAnalytics = ""
   description = ""
   copyright = "&copy;2021 ひこうき雲"
   sidebarAbout = [
-    "ブログのようなサイトだよ。",
-    "好きなものについて書くよ！",
-    "このサイト、できたてで中身スッカスカだな？",
-    "しかもゲームの話ばっかりしてるな？"
+    "好きなものについて書いていくブログ風サイトだよ。",
+    "…ゲームの話ばっかりだな？"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

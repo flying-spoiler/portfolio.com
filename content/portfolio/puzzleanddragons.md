@@ -1,8 +1,8 @@
 +++
 title = "パズドラの話"
 draft = false
-image = "/img/paper.jpg"
-showonlyimage = false
+image = "/img/puzzleanddragons.png"
+showonlyimage = true
 +++
 
 7年間くらい毎日ログインしていたが、2020年8月ごろにいったん活動休止。
@@ -11,7 +11,7 @@ showonlyimage = false
 セーブデータは残っているので気が向いたら復帰したい。
 
 * ランク：990
-* 好きな降臨キャラ：ヒノミツハ、ニムエ。
+* 好きな降臨キャラ：ヒノミツハ、ニムエ
 * よく使うリーダー：マドゥ、アキネ、アルジェ、冴木創
 * 裏列界がクリアできない。
 

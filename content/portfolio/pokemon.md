@@ -1,8 +1,8 @@
 +++
 title = "ポケモンの話"
 draft = false
-image = "/img/paper.jpg"
-showonlyimage = false
+image = "/img/pokemon.png"
+showonlyimage = true
 +++
 
 初代からのファン。オシャボが好き。

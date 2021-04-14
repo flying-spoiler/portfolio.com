@@ -1,12 +1,11 @@
 +++
 title = "東方の話"
 draft = false
-image = "/img/paper.jpg"
-showonlyimage = false
+image = "/img/touhou.png"
+showonlyimage = true
 +++
 
-二次作品は何も知らない。原作のSTGをキーボードでやるのが好き。
-<!--more-->
+原作のSTGをキーボードでやるのが好き。<!--more-->二次作品は何も知らない。
 
 * 紅魔郷：Hardノーコンクリア
 * 妖々夢：Hardノーコンクリア
