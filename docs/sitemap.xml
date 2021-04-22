@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://flying-spoiler.github.io/portfolio.com/categories/</loc>
+    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/categories/</loc>
+  </url><url>
+    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/portfolio/</loc>
+  </url><url>
+    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/tags/</loc>
+  </url><url>
+    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/links/</loc>
   </url><url>
     <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/</loc>
   </url><url>
-    <loc>https://flying-spoiler.github.io/portfolio.com/tags/</loc>
+    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/portfolio/egg/</loc>
   </url><url>
-    <loc>https://flying-spoiler.github.io/portfolio.com/links/</loc>
+    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/portfolio/dragonquest/</loc>
   </url><url>
-    <loc>https://flying-spoiler.github.io/portfolio.com/</loc>
+    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/portfolio/puzzleanddragons/</loc>
   </url><url>
-    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/egg/</loc>
+    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/portfolio/pokemon/</loc>
   </url><url>
-    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/dragonquest/</loc>
+    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/portfolio/taiko/</loc>
   </url><url>
-    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/puzzleanddragons/</loc>
-  </url><url>
-    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/pokemon/</loc>
-  </url><url>
-    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/taiko/</loc>
-  </url><url>
-    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/touhou/</loc>
+    <loc>https://flying-spoiler.github.io/portfolio.com/portfolio/portfolio/touhou/</loc>
   </url>
 </urlset>

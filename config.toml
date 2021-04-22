@@ -1,4 +1,4 @@
-baseurl = "https://flying-spoiler.github.io/portfolio.com/"
+baseurl = "https://flying-spoiler.github.io/portfolio.com/portfolio/"
 title = "ひこうきメモ"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja-jp"
