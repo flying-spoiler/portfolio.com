@@ -1,7 +1,7 @@
 +++
 title = "東方の話"
 draft = false
-image = "/img/touhou.png"
+image = "img/portfolio/touhou.png"
 showonlyimage = true
 +++
 

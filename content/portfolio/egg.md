@@ -1,7 +1,7 @@
 +++
 title = "エッガーランドの話"
 draft = false
-image = "/img/egg.png"
+image = "img/portfolio/egg.png"
 showonlyimage = true
 +++
 

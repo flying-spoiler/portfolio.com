@@ -1,7 +1,7 @@
 +++
 title = "ポケモンの話"
 draft = false
-image = "/img/pokemon.png"
+image = "img/portfolio/pokemon.png"
 showonlyimage = true
 +++
 

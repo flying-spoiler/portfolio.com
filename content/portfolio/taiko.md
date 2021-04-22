@@ -1,7 +1,7 @@
 +++
 title = "太鼓の達人の話"
 draft = false
-image = "/img/taiko.png"
+image = "img/portfolio/taiko.png"
 showonlyimage = true
 +++
 

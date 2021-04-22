@@ -1,7 +1,7 @@
 +++
 title = "ドラクエの話"
 draft = false
-image = "/img/dragonquest.png"
+image = "img/portfolio/dragonquest.png"
 showonlyimage = true
 +++
 

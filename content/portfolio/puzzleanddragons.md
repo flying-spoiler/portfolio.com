@@ -1,7 +1,7 @@
 +++
 title = "パズドラの話"
 draft = false
-image = "/img/puzzleanddragons.png"
+image = "img/portfolio/puzzleanddragons.png"
 showonlyimage = true
 +++
 
