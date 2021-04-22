@@ -8,6 +8,7 @@ disqusShortname = ""
 googleAnalytics = ""
 
 publishDir = "docs"
+canonifyurls = true
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
