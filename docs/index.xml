@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ひこうきメモ</title>
+    <link>https://hopeful-beaver-083c53.netlify.app/</link>
+    <description>Recent content on ひこうきメモ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language><atom:link href="https://hopeful-beaver-083c53.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>いろいろやってます</title>
+      <link>https://hopeful-beaver-083c53.netlify.app/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hopeful-beaver-083c53.netlify.app/links/</guid>
+      <description>Twitter  私のアカウントはこれです。 2010年にアカウント作ってからずっとやってます。  AtCoder  マイページはこれです。 趣味でやってます。実力は全ユーザーの上位20％に入る程度。  Paiza  レートはこれです。 趣味です。今のところ転職予定はありません。  アメーバ  私のブログはこれですが、正直かなり古いです。 最近はたまに個人用メモとして記事を書くくらいかな…。  </description>
+    </item>
+    
+    <item>
+      <title>エッガーランドの話</title>
+      <link>https://hopeful-beaver-083c53.netlify.app/portfolio/egg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hopeful-beaver-083c53.netlify.app/portfolio/egg/</guid>
+      <description>&lt;p&gt;パズルゲームでは個人的に最も面白いと思っている。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ドラクエの話</title>
+      <link>https://hopeful-beaver-083c53.netlify.app/portfolio/dragonquest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hopeful-beaver-083c53.netlify.app/portfolio/dragonquest/</guid>
+      <description>&lt;p&gt;一番好きなのはやっぱりDQ5。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>パズドラの話</title>
+      <link>https://hopeful-beaver-083c53.netlify.app/portfolio/puzzleanddragons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hopeful-beaver-083c53.netlify.app/portfolio/puzzleanddragons/</guid>
+      <description>&lt;p&gt;7年間くらい毎日ログインしていたが、現在は休止中。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ポケモンの話</title>
+      <link>https://hopeful-beaver-083c53.netlify.app/portfolio/pokemon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hopeful-beaver-083c53.netlify.app/portfolio/pokemon/</guid>
+      <description>&lt;p&gt;初代からのファン。オシャボが好き。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>太鼓の達人の話</title>
+      <link>https://hopeful-beaver-083c53.netlify.app/portfolio/taiko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hopeful-beaver-083c53.netlify.app/portfolio/taiko/</guid>
+      <description>&lt;p&gt;始めて触れたときのバージョンはAC13。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>東方の話</title>
+      <link>https://hopeful-beaver-083c53.netlify.app/portfolio/touhou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hopeful-beaver-083c53.netlify.app/portfolio/touhou/</guid>
+      <description>&lt;p&gt;原作のSTGをキーボードでやるのが好き。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
