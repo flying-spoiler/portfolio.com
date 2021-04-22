@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ひこうきメモ</title>
-    <link>https://flying-spoiler.github.io/portfolio.com/portfolio/tags/</link>
+    <link>https://flying-spoiler.github.io/portfolio.com/tags/</link>
     <description>Recent content in Tags on ひこうきメモ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="https://flying-spoiler.github.io/portfolio.com/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://flying-spoiler.github.io/portfolio.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
