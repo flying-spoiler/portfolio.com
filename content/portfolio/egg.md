@@ -36,7 +36,7 @@ Windows版。
 ##### Wark & Wimble
 開発：Benjamin Wendt氏（←おそらく前述の「The Adventures of Bobo」開発者と同じ人物）。81面全面クリアできた。公式サイトは[**こちら**](https://www.warkandwimble.com/)で、Android版/iOS版/Steam版がある。
 
-
+***
 
 
 

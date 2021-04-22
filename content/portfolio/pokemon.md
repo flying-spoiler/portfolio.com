@@ -24,5 +24,10 @@ showonlyimage = true
 ***
 #### その他
 * 第七世代・第八世代で遊んだことは[**ブログ**](http://flying-breeder.blog.jp/)にいろいろと残している
-　
-　
+
+***
+
+
+
+
+
