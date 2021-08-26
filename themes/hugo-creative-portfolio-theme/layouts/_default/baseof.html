@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-<head>{{ partial "head.html" . }}</head>
+<head>{{ partial "head.html" . }}
+
+<!-- ページ専用のJSの読み込み処理 -->
+{{ range .Page.Params.page_js }}
+  <script src="{{.}}"></script>
+{{ end }}
+
+</head>
 <body>
   <div id="all">
       <div class="container-fluid">
