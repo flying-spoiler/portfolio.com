@@ -1,15 +1,13 @@
 +++
-title = "東方の話"
+title = "東方project"
+tags = ["ゲーム"]
+date = "2000-07-01"
 draft = false
-image = "img/portfolio/touhou.png"
-showonlyimage = true
 +++
-
-原作のSTGをキーボードでやるのが好き。
-<!--more-->
 
 ***
 #### 進捗
+***
 
 * 紅魔郷：Hardノーコンクリア
 * 妖々夢：Hardノーコンクリア
@@ -29,8 +27,3 @@ showonlyimage = true
 * ナイトメアダイアリー：全シーンクリア
 * 東方鬼形獣：Lunaticノーコンクリア
 
-***
-
-ちなみに二次作品はほとんど何も知らない。
-
-***

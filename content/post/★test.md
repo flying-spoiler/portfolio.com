@@ -1,8 +1,8 @@
 +++
 title = "練習用"
+tags = ["draft"]
+date = "9999-01-01"
 draft = true
-image = "/img/paper.jpg"
-showonlyimage = false
 +++
 
 あ
