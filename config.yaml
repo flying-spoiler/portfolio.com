@@ -16,11 +16,11 @@ permalinks:
 # The value of pre is the icon name
 menu:
   nav:
-  - name: ホーム
+  - name: home
     pre: home
     url: /
     weight: 1
-  - name: 記事(一覧)
+  - name: 記事
     pre: edit
     url: /post/
     weight: 2

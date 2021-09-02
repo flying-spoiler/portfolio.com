@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ゲーム以外 on ひこうきメモ</title>
+    <link>https://flying-spoiler.github.io/portfolio.com/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E4%BB%A5%E5%A4%96/</link>
+    <description>Recent content in ゲーム以外 on ひこうきメモ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0000</lastBuildDate><atom:link href="https://flying-spoiler.github.io/portfolio.com/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E4%BB%A5%E5%A4%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AtCoder</title>
+      <link>https://flying-spoiler.github.io/portfolio.com/atcoder/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>https://flying-spoiler.github.io/portfolio.com/atcoder/</guid>
+      <description>そもそもAtCoderとは？  「競技プログラミング」というものがある。
+略して「競プロ」。
+算数パズルみたいな問題が出題されるので、その問題を解くプログラムを作る。その速さを競う。
+AtCoderとは、競プロのコンテストを開催しているWebサイト（およびその運営会社）のこと。
+楽しい。
+　 実績  flying_spoilerというユーザ名でやっている。
+https://atcoder.jp/users/flying_spoiler
+　 過去問題で好きなやつ  パッと思いついたのは
+https://atcoder.jp/contests/abc161/tasks/abc161_d
+とか
+https://atcoder.jp/contests/abc174/tasks/abc174_e
+とか。
+　 会員登録してから１年間でやっていたこと   AtCoderのコンテストはほぼ毎週開催されるのでなるべく毎回参加した。 けんちょん本を買って読んだ。 過去問題をいろいろ解いた。AtCoder ProblemsのLongest Streak（連続正解日数）は100日を達成した。 AtCoderは面白いぞ、と職場で宣伝した。  などなど。</description>
+    </item>
+    
+  </channel>
+</rss>

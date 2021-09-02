@@ -128,5 +128,26 @@
 The Adventures of Bobo  開発：Benjamin Wendt氏。 99面全面クリアできた。 公式サイトが閉鎖済みのため現在は入手不可能…？  The Adventures of Bobo  開発：Raj Sharma氏。ゲームタイトルはBenjamin Wendt氏のものと同じだが全く別の作品。 46面全面クリアできた。 公式サイトはあるかどうか不明だが、ゲーム自体はこちらのブログに置いてありダウンロード可能。  東方紅魔迷宮  開発：同人サークル「BansheeSOFTWARE」様。いわゆる東方同人ゲームのひとつ。 難易度が高く、まだ全面クリアできていない。 続編として東方紅魔大迷宮もあるが購入しただけで未開封、早くプレイしなくては。  エッガーランドおためし  開発：Webサイト「あしかのほびぃ」様。このページにて公開されておりダウンロード可能。 YouTubeに動画もある。 試作品とのことだが本家エッガーランドのイベントをそのまま再現したかのようなゲームデザインには感嘆せざるを得ない…  Wark &amp;amp; Wimble  開発：Benjamin Wendt氏（←おそらく前述の「The Adventures of Bobo」開発者と同じ人物）。 81面全面クリアできた。 公式サイトはこちらで、Android版/iOS版/Steam版がある。  </description>
     </item>
     
+    <item>
+      <title>AtCoder</title>
+      <link>https://flying-spoiler.github.io/portfolio.com/atcoder/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>https://flying-spoiler.github.io/portfolio.com/atcoder/</guid>
+      <description>そもそもAtCoderとは？  「競技プログラミング」というものがある。
+略して「競プロ」。
+算数パズルみたいな問題が出題されるので、その問題を解くプログラムを作る。その速さを競う。
+AtCoderとは、競プロのコンテストを開催しているWebサイト（およびその運営会社）のこと。
+楽しい。
+　 実績  flying_spoilerというユーザ名でやっている。
+https://atcoder.jp/users/flying_spoiler
+　 過去問題で好きなやつ  パッと思いついたのは
+https://atcoder.jp/contests/abc161/tasks/abc161_d
+とか
+https://atcoder.jp/contests/abc174/tasks/abc174_e
+とか。
+　 会員登録してから１年間でやっていたこと   AtCoderのコンテストはほぼ毎週開催されるのでなるべく毎回参加した。 けんちょん本を買って読んだ。 過去問題をいろいろ解いた。AtCoder ProblemsのLongest Streak（連続正解日数）は100日を達成した。 AtCoderは面白いぞ、と職場で宣伝した。  などなど。</description>
+    </item>
+    
   </channel>
 </rss>
